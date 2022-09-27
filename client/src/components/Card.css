@@ -1,0 +1,91 @@
+.carddiv{
+    display: inline-block;
+    
+    border-color: #eb5e28;
+    width: 280px;
+    height: 380px;
+    margin: 30px;
+    background-color: #fffcf2;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 1px 1px 3px 4px rgba(36, 35, 35, 0.2);
+    
+    
+    
+    
+}
+.carddiv {
+    animation: fadein 0.5s; 
+   }
+   @keyframes fadein {
+    0% {
+    opacity:0;
+    }
+    10%{
+        opacity: 0.1;
+    }
+    20%{
+        opacity: 0.2;
+    }
+    30%{
+    opacity:0.3;
+    }
+    40%{
+        opacity: 0.4;
+    }
+    50% {
+    opacity:0.5;
+    }
+    60%{
+        opacity: 0.6;
+    }
+    70%{
+        opacity: 0.7;
+    }
+    80%{
+        opacity: 0.8;
+    }
+    90%{
+        opacity: 0.9;
+    }
+    100%{
+        opacity: 1;
+    }
+   }
+
+
+
+
+.img{
+    width: 100%;
+    height: 200px;
+    
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 20px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+/* .img:hover{
+    width: 102%;
+    height: 202px;
+} */
+.name{
+    color: black;
+}
+.cont{
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    
+}

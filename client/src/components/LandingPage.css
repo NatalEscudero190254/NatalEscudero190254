@@ -1,0 +1,50 @@
+header{
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    background-image: url("https://fondosmil.com/fondo/47972.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+
+.landing{
+    display: flex;
+}
+
+
+
+.parraf{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+    color: #d62828;
+}
+
+
+.btn{
+   
+    margin-top: 350px;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 12px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color: #d62828;
+    color: #fffcf2;
+ 
+   
+}
+
+.btn:hover{
+    background-color: #fffcf2;
+    color: #d62828;
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: 1px 1px 5px 3px rgba(47, 47, 47, 0.4);
+}
+.parraf{
+    margin-top: 150px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 50px;
+}
