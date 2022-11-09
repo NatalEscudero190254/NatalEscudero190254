@@ -14,5 +14,5 @@ y asi tomar decisiones en base a ellos.
 Si estas buscando un desarrollador con ganas, entusiasmo, curiosidad y buena predisposición, no dudes en contactarme!
 
 Tel: +54 1128706823,
-GitHub: NatalEscudero190254,
+LinkedIn: https://www.linkedin.com/in/natal-escudero-0a0020210/
 Gmail: natalescudero543@gmail.com
