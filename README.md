@@ -1,10 +1,11 @@
-Hola!, mi nombre es Natal.
+Hola!👋 , mi nombre es Natal.↙
 
 Soy un estudiante de Desarrollo Web con mucho entusiasmo y curiosidad, con ganas de sumarme a un equipo de trabajo para desarrollarme tanto profesional como personalmente, tengo una actitud proactiva enfocada a resultados, sin problemas para adaptarme a grupos de trabajo y tampoco trabajando por mi cuenta.
 
-Los lenguajes que manejo son: React.js, Express.js, Postgress, SQL, JavaScript, CSS, HTML, Redux, Redux ToolKit.
+Los lenguajes que manejo son: React.js, Express.js, Postgress, SQL, JavaScript, CSS, HTML, Redux, Redux ToolKit.🎓
 
-Lenguajes que estoy aprendiendo actualmente; Angular, TypeScript, MongoDB.
+
+Lenguajes que estoy aprendiendo actualmente; Angular, TypeScript, MongoDB.👨‍💻
 
 tengo proyectos tales como una SPA con la tematica de paises que consume datos de una API, en la que se puede filtrar, ordenar, y crear tu propia actividad turistica,
 y mi ultimo proyecto GameScript, proyecto final del bootcamp SoyHenry, que es una pagina web desarrolada en Reactjs, expressjs y postgresSQL, que consta de un sitio para poder comprar videojuegos, filtrarlos y ordenarlos y en los cules se
